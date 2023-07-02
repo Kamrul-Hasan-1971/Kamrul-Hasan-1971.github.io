@@ -1100,3 +1100,18 @@ section .container {
     transform: translateX(-50%);
   }
 }
+
+.icon-box p {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.icon-box p img:not(:last-child) {
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.icon-box p img {
+  max-width: 100%;
+  max-height: 100%;
+}
