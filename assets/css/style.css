@@ -1124,5 +1124,6 @@ section .container {
 .education-image{
   padding-top: 20px; 
   padding-bottom: 10px;
-  height: 300px;
+  height: auto;
+  width: 70%;
 }
