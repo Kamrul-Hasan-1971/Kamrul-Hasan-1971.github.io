@@ -1120,3 +1120,9 @@ section .container {
   display: block;
   margin: 0 auto;
 }
+
+.education-image{
+  padding-top: 20px; 
+  padding-bottom: 10px;
+  height: 300px;
+}
